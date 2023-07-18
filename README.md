@@ -1,11 +1,8 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <br/>
-  <br/>
-  <br/>
+
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="./docs/logo3.svg" alt="logo" width="400"  height="auto" />
   <br/>
   <br/>
   <br/>
