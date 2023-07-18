@@ -36,7 +36,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Morse Decoder ](#-morse-decoder-)
+- [📖 Enumerable ](#-morse-decoder-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -55,9 +55,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Morse Decoder <a name="about-project"></a>
+# 📖 Enumerable <a name="about-project"></a>
 
-> The **_Morse Decoder_** is a project that allows you to decode morse code.
+> The **Enumerable** is a project that allows you to use a module inside your class.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -90,7 +90,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- Decodes a message wrote using morse code.
+- Create My own Enumerable.
 - Use of Ruby's best practices.
 - Use of Gitflow.
 - Use of linters.
@@ -125,7 +125,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/SergioPeralta22/morse-decoder.git
+  git clone https://github.com/StevenWafeek/Ruby_enumerable
 ```
 
 ### Install
@@ -141,7 +141,7 @@ Install this project with:
 To run the project, run the following command:
 
 ```sh
-  ruby morse_decoder.rb
+  ruby enumerable.rb
 ```
 
 ### Run tests
@@ -190,7 +190,7 @@ Example:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - **More data**
-- **More decodes**
+- **More classes**
 - **More supported languages**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
